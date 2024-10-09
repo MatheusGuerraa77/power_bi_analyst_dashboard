@@ -17,7 +17,8 @@ Isso oferece uma visão clara de quais segmentos estão contribuindo mais para o
 
 ### Layout e Design:
 - O layout dos gráficos foi cuidadosamente revisado para garantir que o design fosse intuitivo, facilitando a navegação e a análise dos dados. A disposição dos visuais foi ajustada para dar destaque às informações mais importantes. Publicação: O dashboard final foi publicado no Power BI e compartilhado como um arquivo suplementar em PowerPoint, facilitando a apresentação em reuniões e a distribuição interna na organização.
-
+### Link no Power BI:
+- https://app.powerbi.com/groups/me/reports/b7fc59c6-8764-494e-aa5b-99bc16d5b78c/13ac95f3413fd013e353?experience=power-bi
 ## Conclusão:
 
 Este projeto foi uma excelente oportunidade para consolidar conhecimentos de Business Intelligence (BI) e análise de dados no Power BI. O dashboard permite uma análise eficiente das vendas, lucros e unidades vendidas, fornecendo insights acionáveis para decisões de negócios. Além disso, o uso de visuais interativos melhora a comunicação dos dados de forma clara e direta.
