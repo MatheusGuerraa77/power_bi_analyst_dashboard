@@ -1,6 +1,5 @@
 # power_bi_analyst_dashboard
-
-Description. 
+ 
 Este projeto consiste na criação de um Dashboard de Vendas utilizando o Power BI, com o objetivo de analisar dados de vendas por diferentes regiões e segmentos, fornecendo insights valiosos para a tomada de decisões estratégicas.  A tarefa foi dividida em três páginas, sendo duas replicadas a partir de um exemplo fornecido e uma terceira criada do zero, o que permitiu consolidar habilidades na construção de relatórios visuais, configuração de campos e personalização dos gráficos.
 
 	### Estrutura do Dashboard 
